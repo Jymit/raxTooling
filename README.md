@@ -12,4 +12,7 @@ Place of daily tooling:
 
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
+
 `./testssl.sh --robot 192.168.121.7`
+
+
