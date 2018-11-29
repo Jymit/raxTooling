@@ -17,4 +17,5 @@ Place of daily tooling:
 
 `./testssl.sh --robot 192.168.121.7`
 
-
+*simpleHTTPServer.sh*
+-The python kind `./simpleHTTPServer.sh 9998`
