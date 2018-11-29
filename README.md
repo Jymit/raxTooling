@@ -20,3 +20,5 @@ Place of daily tooling:
 - The python kind
 - `./simpleHTTPServer.sh 9998`
 
+*hashMe.sh*
+- get MD5, sha1 and sha256 of input
