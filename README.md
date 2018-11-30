@@ -22,3 +22,7 @@ Place of daily tooling:
 
 *hashMe.sh*
 - get MD5, sha1 and sha256 of input
+
+*sqlmap*
+- v1.2.11.19#dev
+- sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
