@@ -7,6 +7,7 @@
 *
 
 ***MISC***
+
 `ruby -v`
 `python --version`
 - Homebrew
@@ -22,6 +23,8 @@
 `brew install wireshark`
 - nmap
 `brew install nmap`
+- proxychains
+`brew install proxychains-ng`
 - pip
 *pip is a package management system used to install and manage software packages written in Python*
 `sudo easy_install pip`
