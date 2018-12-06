@@ -8,28 +8,28 @@
 
 ***MISC***
 
-`ruby -v`
-`python --version`
+`ruby -v` 
+`python --version` 
 - Homebrew
 *Homebrew installs the stuff you need that Apple didn’t*
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - jq
-`brew install jq`
+`brew install jq` 
 - curl
-`brew install curl`
+`brew install curl` 
 - wget
-`brew install wget`
+`brew install wget` 
 - wireshark
-`brew install wireshark`
+`brew install wireshark` 
 - nmap
-`brew install nmap`
+`brew install nmap` 
 - proxychains
-`brew install proxychains-ng`
+`brew install proxychains-ng` 
 - pip
 *pip is a package management system used to install and manage software packages written in Python*
 `sudo easy_install pip`
 - Git
-`git --version`
+`git --version` 
 
 ***Place of daily tooling***
 
