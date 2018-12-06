@@ -1,6 +1,32 @@
 <a href="https://www.buymeacoffee.com/lVxF4qWHE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> - I am not allowed coffee during days I work otherwise I get into a frenzy and try and do 17 things at once, however I am partial to a oat milk flat white or soy macchiato on the weekends. Help me fuel the addiction ;)
 
+*
+*
+*
+*
+*
 
+***MISC***
+`ruby -v`
+`python --version`
+- Homebrew
+*Homebrew installs the stuff you need that Apple didn’t*
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- jq
+`brew install jq`
+- curl
+`brew install curl`
+- wget
+`brew install wget`
+- wireshark
+`brew install wireshark`
+- nmap
+`brew install nmap`
+- pip
+*pip is a package management system used to install and manage software packages written in Python*
+`sudo easy_install pip`
+- Git
+`git --version`
 
 ***Place of daily tooling***
 
@@ -39,6 +65,11 @@
 *hashMe.sh*
 - get MD5, sha1 and sha256 of input
 
+*shortenMe.sh*
+-
+
 *unshortenMe.sh*
 - Take a shortened URL, to get an unshortened URL
 - `./unshort.sh <URL>`
+
+
