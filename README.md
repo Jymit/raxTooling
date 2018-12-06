@@ -2,16 +2,7 @@
 
 
 
-Place of daily tooling:
-
-*base2ascii.sh*
-- First iteration was to make the code short and sweet like a Cannoli
-- Will move to a one liner, such as `./base2ascii.sh someBase64HEre`
-- Also for the other way around Ascii to Base64, Hex, etc.
-
-*hex2ascii.sh*
-- As per above
-
+***Place of daily tooling***
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
 - `./testssl.sh --robot 192.168.121.7`
@@ -20,9 +11,22 @@ Place of daily tooling:
 - The python kind
 - `./simpleHTTPServer.sh 9998`
 
-*hashMe.sh*
-- get MD5, sha1 and sha256 of input
-
 *sqlmap*
 - v1.2.11.19#dev
 - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+
+
+**Under construction**
+*base2ascii.sh*
+- First iteration was to make the code short and sweet like a Cannoli
+- Will move to a one liner, such as `./base2ascii.sh someBase64HEre`
+- Also for the other way around Ascii to Base64, Hex, etc.
+
+*hex2ascii.sh*
+- As per above
+
+*hashMe.sh*
+- get MD5, sha1 and sha256 of input
+
+*unshortMe.sh*
+- Take a shortened URL, to get an unshortened URL
