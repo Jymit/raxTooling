@@ -15,6 +15,7 @@
 -I, --ccs, --ccs-injection    tests for CCS injection vulnerability
 ..
 ```
+- With out the specificity all checks are ran
 
 *simpleHTTPServer.sh*
 - The python kind
