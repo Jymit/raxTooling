@@ -3,6 +3,7 @@
 
 
 ***Place of daily tooling***
+
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
 - `./testssl.sh --robot 192.168.121.7`
@@ -17,6 +18,7 @@
 
 
 **Under construction**
+
 *base2ascii.sh*
 - First iteration was to make the code short and sweet like a Cannoli
 - Will move to a one liner, such as `./base2ascii.sh someBase64HEre`
