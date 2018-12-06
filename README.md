@@ -6,7 +6,7 @@
 
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
-- `./testssl.sh --robot 192.168.121.7`
+- `./testssl.sh --robot <URL>`
 
 *simpleHTTPServer.sh*
 - The python kind
@@ -32,3 +32,4 @@
 
 *unshortenMe.sh*
 - Take a shortened URL, to get an unshortened URL
+- `./unshort.sh <URL>`
