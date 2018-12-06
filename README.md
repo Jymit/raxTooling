@@ -7,6 +7,14 @@
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
 - `./testssl.sh --robot <URL>`
+```
+-O, --poodle tests for POODLE (SSL) vulnerability
+-F, --freak                   tests for FREAK vulnerability
+-J, --logjam                  tests for LOGJAM vulnerability
+-H, --heartbleed              tests for Heartbleed vulnerability
+-I, --ccs, --ccs-injection    tests for CCS injection vulnerability
+..
+```
 
 *simpleHTTPServer.sh*
 - The python kind
