@@ -10,25 +10,25 @@
 
 `ruby -v` 
 `python --version` 
-- Homebrew
-*Homebrew installs the stuff you need that Apple didn’t*
+- Homebrew 
+*Homebrew installs the stuff you need that Apple didn’t* 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-- jq
+- jq 
 `brew install jq` 
-- curl
+- curl 
 `brew install curl` 
-- wget
+- wget 
 `brew install wget` 
-- wireshark
+- wireshark 
 `brew install wireshark` 
-- nmap
+- nmap 
 `brew install nmap` 
-- proxychains
+- proxychains 
 `brew install proxychains-ng` 
-- pip
-*pip is a package management system used to install and manage software packages written in Python*
-`sudo easy_install pip`
-- Git
+- pip 
+*pip is a package management system used to install and manage software packages written in Python* 
+`sudo easy_install pip` 
+- Git 
 `git --version` 
 
 ***Place of daily tooling***
@@ -69,7 +69,7 @@
 - get MD5, sha1 and sha256 of input
 
 *shortenMe.sh*
--
+- Take an unshortened URL, to get a shortened URL
 
 *unshortenMe.sh*
 - Take a shortened URL, to get an unshortened URL
