@@ -30,5 +30,5 @@
 *hashMe.sh*
 - get MD5, sha1 and sha256 of input
 
-*unshortMe.sh*
+*unshortenMe.sh*
 - Take a shortened URL, to get an unshortened URL
