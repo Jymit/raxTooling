@@ -6,8 +6,10 @@
 
 ***MISC***
 
-`ruby -v` 
-`python --version` 
+`ruby -v`
+
+`python --version`
+
 - Homebrew 
 *Homebrew installs the stuff you need that Apple didn’t* 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
