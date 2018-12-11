@@ -61,8 +61,15 @@ echo '{"foo": 0}' | jq .
 - The python kind
 - `./simpleHTTPServer.sh 9998`
 
-*myIP.sh
-- MAC
+*myIP.sh*
+- macOS
+- private IP's
+
+*ipLocation.sh*
+- Public IP
+- Get the (geo) location of your public IP from your workstation.
+- ipstack API
+- jq
 
 
 ***Under way***
