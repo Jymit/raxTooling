@@ -4,7 +4,7 @@
 *
 * 
 
-***MISC***
+**Will find a better place and placement as I go along**
 
 `ruby -v`
 
@@ -32,16 +32,20 @@
 `git --version` 
 
 ```
-| jq '.'
-| python -mjson.tool
+| jq .
+| python -m json.tool
 eg:
 echo '{"foo": 0}' | jq .
+{
+    "foo": 0
+}
 ```
 
 ***Place of daily tooling***
 
 *testssl.sh*
 - From [here](https://testssl.sh/bleichenbacher/) for testing the ROBOT (Return of Bleichenbacher's Oracle Threat) Vuln.
+- Noted does not work if there is no rDNS
 - `./testssl.sh --robot <URL>`
 ```
 -O, --poodle tests for POODLE (SSL) vulnerability
@@ -51,18 +55,21 @@ echo '{"foo": 0}' | jq .
 -I, --ccs, --ccs-injection    tests for CCS injection vulnerability
 ..
 ```
-- With out the specificity all checks are ran
+- With out any switch specificity all checks are ran
 
 *simpleHTTPServer.sh*
 - The python kind
 - `./simpleHTTPServer.sh 9998`
 
+*myIP.sh
+- MAC
+
+
+***Under way***
+
 *sqlmap*
 - v1.2.11.19#dev
 - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
-
-
-***Under construction***
 
 *base2ascii.sh*
 - First iteration was to make the code short and sweet like a Cannoli
