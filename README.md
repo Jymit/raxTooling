@@ -31,6 +31,13 @@
 - Git 
 `git --version` 
 
+```
+| jq '.'
+| python -mjson.tool
+eg:
+echo '{"foo": 0}' | jq .
+```
+
 ***Place of daily tooling***
 
 *testssl.sh*
