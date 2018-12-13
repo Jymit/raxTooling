@@ -1,14 +1,16 @@
-<a href="https://www.buymeacoffee.com/lVxF4qWHE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> - I am not allowed coffee during days I work otherwise I get into a frenzy and try and do 17 things at once, however I am partial to a oat milk flat white or soy macchiato on the weekends. Help me fuel the addiction ;)
+<a href="https://www.buymeacoffee.com/lVxF4qWHE" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> - I am not allowed coffee during days I work otherwise I try and do 17 things at once, however I am partial to a oat milk flat white or soy macchiato on the weekends. Help me fuel the addiction ;)
 
 *
 *
 * 
 
-**Will find a better place and placement as I go along**
+**Will find a better placement as I go along**
 
 `ruby -v`
 
 `python --version`
+
+`php -v`
 
 - Homebrew 
 *Homebrew installs the stuff you need that Apple didn’t* 
@@ -25,6 +27,8 @@
 `brew install nmap` 
 - proxychains 
 `brew install proxychains-ng` 
+- watch 
+`brew install watch` 
 - pip 
 *pip is a package management system used to install and manage software packages written in Python* 
 `sudo easy_install pip` 
@@ -95,5 +99,3 @@ echo '{"foo": 0}' | jq .
 *unshortenMe.sh*
 - Take a shortened URL, to get an unshortened URL
 - `./unshort.sh <URL>`
-
-
